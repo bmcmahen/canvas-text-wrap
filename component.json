@@ -1,0 +1,14 @@
+{
+  "name": "canvas-text-wrap",
+  "repo": "bmcmahen/canvas-text-wrap",
+  "description": "text wrapping for canvas",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}
