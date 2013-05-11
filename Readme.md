@@ -1,11 +1,11 @@
 
 # canvas-text-wrap
 
-	text wrapping for canvas
+text wrapping for canvas
 
 ## Installation
 
-		$ component install bmcmahen/canvas-text-wrap
+	$ component install bmcmahen/canvas-text-wrap
 
 ## API
 
