@@ -16,7 +16,7 @@ The wrap function returns an array of text lines, each consisting of an object w
 
 ## Example
 
-	var wrap = require('canvas-text-wrap');
+	var wrap = require('bmcmahen-canvas-text-wrap');
 	var txt = wrap(ctx, 'this is a long string that should be truncated, i think', 0, 0, 55, 15);
 	for (var i = 0; i < txt.length; i++){
 		var item = txt[i];
